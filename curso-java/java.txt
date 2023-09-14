@@ -1,0 +1,30 @@
+# Curso Java - Completo
+
+## Instalação
+-Instalar JRE 
+-Instalar JDK
+-Configurar as variáveis de ambiente: https://www.youtube.com/watch?v=TcqICLuUuyA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=3
+-Para verificar a versão instalada do java no prompt de comando: javac -version
+-Baixe o VScode
+-Baixe as extensões no Java
+
+## Executando o processo de compilação manualmente
+-O nome do arquivo tem que ser o mesmo do programa
+-Abra o programa Notepad++
+-Copie o seguinte texto para teste
+
+public class OlaMundo{
+        public static void main(String[] args){
+            System.out.println("Oi, funcionou?");
+    }
+} 
+
+-Salve o arquivo como OlaMundo.java
+-Abra o prompt na pasta do projeto (direito do mouse | abrir terminal )
+-Digite: javac OlaMundo.java
+-Digite: java OlaMundo
+-Toda vez que alterar o programa, será necessário compilar novamente.
+-No VScode não é necessário
+
+
+
