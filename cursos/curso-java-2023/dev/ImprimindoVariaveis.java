@@ -10,7 +10,7 @@ public class ImprimindoVariaveis {
         boolean verdadeiro = true;
         boolean falso = false;
         long numeroGrande = 1000L;
-        char caractere = 'A';
+        char caractere = 'A'; //2 bytes //tabela unicode
         String nome = "William";
         System.out.println(idade);
         System.out.println(idadeDosPaisPAraCadastro);
