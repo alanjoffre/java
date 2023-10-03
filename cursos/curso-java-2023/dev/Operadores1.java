@@ -1,4 +1,4 @@
-public class Operadores {
+public class Operadores1 {
 
     // ++ Incremento | -- Decremento | + Adição | - Subtração | * Multiplicação | /
     // Divisão | % Módulo | ! Negação
